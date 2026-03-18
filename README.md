@@ -1,1 +1,1 @@
-Assessment Selenium contains 2 asessments and ddt is the folder of assessment2
+Assessment Selenium contains assessment1 and assessment2 and ddt is the folder for assessment2
